@@ -34,8 +34,6 @@
   <source src="How to Create an Event Planning Checklist.mp4" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
 </video>
-	<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=5uYR1JvipHY&t=183s">
-</iframe>
+	
 </body>
 </html>
