@@ -16,7 +16,7 @@
     <h2>Active groups in each meta category: </h2> 
 	    <p>In this part active (hodling events) groups in the meta category selected will be shown, giving a general idea about who the main competitors could be. Parameters taken into consideration are as fallowed: </p>
 	    <p>The groups' member count</p>
-	    <p>The groups' average yes RSVP cound (the average event attendance)</p>
+	    <p>The groups' average yes RSVP count (the average event attendance)</p>
 	    <p>The number of events held by the groups</p>
 	    <p>There are filters facilitating personalization like selecting month, meta category, ect </p>
 	
