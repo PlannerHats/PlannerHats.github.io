@@ -35,6 +35,6 @@
   <source src="How to Create an Event Planning Checklist.mp4" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
 </video>
-	
+<p><a href="https://www.youtube.com/watch?v=5uYR1JvipHY&t=183s">5 Keys to Awesome Virtual Events</a></p>	
 </body>
 </html>
