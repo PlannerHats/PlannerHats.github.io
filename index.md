@@ -10,6 +10,7 @@
 </head>
 <body>
 <h1>Planner Hats</h1>
+	<img src="Planner Hats.png" alt="Planner Hats Logo">
 	<p> An explanation of the image </p>
 	<p> Hosna was here </p>
 
