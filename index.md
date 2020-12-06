@@ -15,18 +15,18 @@
 	<p> Quick look at the problem: 
 	<p> Our aim: Helping event planners to findout about other events, groups holding them and when they can have their own events</p>
     <h2>Overview: </h2>
-	<p> The video shows how filters could be used and how things could look different based on the filters used.</p>
-	<video width="320" height="240" controls>
-  <source src="Planner Hats-Overview.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+
 	    <p>In this part active (hodling events) groups in the meta category selected will be shown, giving a general idea about who the main competitors could be. Parameters taken into consideration are as fallowed: </p>
 	    <p>The groups' member count</p>
 	    <p>The groups' average yes RSVP count (the average event attendance)</p>
 	    <p>The number of events held by the groups</p>
 	    <p>Note: There are filters facilitating personalization like selecting month, meta category, ect, so users are encouraged to take advantage of this filters to see what is most relevent to them. </p>
 	<p> To give an overall view of populat times and days, the two other line graphs are presented. </p>
-
+<p> The video shows how filters could be used and how things could look different based on the filters used.</p>
+	<video width="320" height="240" controls>
+  <source src="Planner Hats-Overview.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 	
 	
 
