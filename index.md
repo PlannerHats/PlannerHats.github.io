@@ -20,7 +20,7 @@
 	    <p>The groups' average yes RSVP count (the average event attendance)</p>
 	    <p>The number of events held by the groups</p>
 	    <p>Note: There are filters facilitating personalization like selecting month, meta category, ect, so users are encouraged to take advantage of this filters to see what is most relevent to them. </p>
-	<p> To give an overall view of populat times and days, the two other line graphs are presented. 
+	<p> To give an overall view of populat times and days, the two other line graphs are presented. </p>
 <video width="320" height="240" autoplay>
   <source src="Planner Hats-Overview.mp4" type="video/mp4">
 Your browser does not support the video tag.
