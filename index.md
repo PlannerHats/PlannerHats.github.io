@@ -12,6 +12,7 @@
 <h1>Planner Hats</h1>
 	<img src="Planner Hats.png" alt="Planner Hats Logo">
 	<P> The Planner Hats: Honeyeh Yazdizadeh, Hosna Hamdieh. Adrian Bolesnikov, Tina Yazdizadeh, Samantha Sieklicki </p>
+	<p> Quick look at the problem: 
 	<p> Our aim: Helping event planners to findout about other events, groups holding them and when they can have their own events</p>
     <h2>Active groups in each meta category: </h2> 
 	    <p>In this part active (hodling events) groups in the meta category selected will be shown, giving a general idea about who the main competitors could be. Parameters taken into consideration are as fallowed: </p>
