@@ -21,7 +21,7 @@
 	    <p>The groups' average yes RSVP count (the average event attendance)</p>
 	    <p>The number of events held by the groups</p>
 	    <p>Note: There are filters facilitating personalization like selecting month, meta category, ect, so users are encouraged to take advantage of this filters to see what is most relevent to them. </p>
-	<p> To give an overall view of popular times and days, the two other line graphs are presented. </p>
+	<p> To give an overall view of popular times and days, the two other line graphs are presented. The graphs can be changed by going to the top of vertical heading and clicking on the small diagram poping up, to see either sorted bar charts going from more to less or less to more. </p>
 <p> The video shows how filters could be used and how things could look different based on the filters used.</p>
 	<video width="320" height="240" controls>
   <source src="Planner Hats-Overview.mp4" type="video/mp4">
