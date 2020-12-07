@@ -51,6 +51,8 @@ Your browser does not support the video tag.
 	<video width="320" height="240" controls>
   <source src="Event Management.mp4" type="video/ogg">
 </video>
-<p><a href="https://www.youtube.com/watch?v=5uYR1JvipHY&t=183s">5 Keys to Awesome Virtual Events</a></p>	
+<p><a href="https://www.youtube.com/watch?v=5uYR1JvipHY&t=183s">5 Keys to Awesome Virtual Events</a></p>
+<p><a href="https://www.youtube.com/watch?v=pyiaqC-hSVA">The Complete Guide to Hosting Live Virtual Events</a></p>
+
 </body>
 </html>
