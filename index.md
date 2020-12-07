@@ -48,7 +48,7 @@ Your browser does not support the video tag.
 <p> By choosing a certain domain and selecting a specific week, the events' overview of the days are shown.</p>
 <p> In this visual the duration of events is clear and if two events happen at the same time it will be shown as well. It is safe to say that it is better to go for times or days that your potential competitors do not have an event booked to maximize attendance. </p>
 <video width="320" height="240" controls>
-  <source src="Event calendar-PlannerHats.mp4" type="video/mp4">
+  <source src="EventCalendar-PlannerHats.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 	<script type='text/javascript' src='https://prod-useast-b.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1707px; height: 759px;'><object class='tableauViz' width='1707' height='759' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-b.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;plannerhats' /><param name='name' value='PlannerHats-EventCalendar&#47;Dailyviewoftheevents' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /></object></div>
