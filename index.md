@@ -9,7 +9,7 @@
 	<meta name="author" content="Planner Hats">
 </head>
 <body>
-<h1 style="color:red;font-size:300%;">Planner Hats</h1>
+<h1 style="color:red;","font-size:300%;">Planner Hats</h1>
 	<img src="Planner Hats.png" alt="Planner Hats Logo">
 	<P> The Planner Hats: Honeyeh Yazdizadeh, Hosna Hamdieh. Adrian Bolesnikov, Tina Yazdizadeh, Samantha Sieklicki </p>
 	<p> Quick look at the problem: 
