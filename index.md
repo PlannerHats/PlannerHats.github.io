@@ -12,8 +12,8 @@
 <h1 style="color:red;font-size:300%;">Planner Hats</h1>
 	<img src="Planner Hats.png" alt="Planner Hats Logo">
 	<P> The Planner Hats: Honeyeh Yazdizadeh, Hosna Hamdieh. Adrian Bolesnikov, Tina Yazdizadeh, Samantha Sieklicki </p>
-	<p> Quick look at the problem: 
-	<p> Our aim: Helping event planners to findout about other events, groups holding them and when they can have their own events</p>
+	<p> Quick look at the problem: Event planning is a hard and time consuming process and it would be a waste if not enough people show up. To make sure you are on the right path it is vital to both know your potential competitors and the times they are holding their events. Finding the perfect time might not be possible without an overall undrestanding of the domain's active players (groups) while knowing popular times and days.</p>
+	<p> Our aim: Helping event planners to findout about other events, groups holding them and when they can have their own events(times still available).</p>
     <h2 style="color:blue;font-size:200%;">Overview: </h2>
 
 	    <p>In this part active (hodling events) groups in the meta category selected will be shown, giving a general idea about who the main competitors could be. Parameters taken into consideration are as fallowed: </p>
