@@ -43,6 +43,9 @@ Your browser does not support the video tag.
 	<div class='tableauPlaceholder' id='viz1607280662035' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ev&#47;EventCal4&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='EventCal4&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ev&#47;EventCal4&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1607280662035');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 <h2 style="color:blue;font-size:200%;"> Eextra resources </h2>
 	<p>Here are some videos and links to hlep you further, in your path to planning the best event ever</p>
+	<p>Many events are going online and that is why knowing how to make the best of onoinle events is critical, here is a video talking about <a href="https://www.youtube.com/watch?v=5uYR1JvipHY&t=183s">5 Keys to Awesome Virtual Events</a></p>
+<p>Also kknowing how to set these events and the tools that could be used is explained more at <a href="https://www.youtube.com/watch?v=pyiaqC-hSVA">The Complete Guide to Hosting Live Virtual Events</a></p>
+
 	<p> How to Create an Event Planning Checklist </p>
 	<video width="320" height="240" controls>
   <source src="How to Create an Event Planning Checklist.mp4" type="video/mp4">
@@ -51,8 +54,6 @@ Your browser does not support the video tag.
 	<video width="320" height="240" controls>
   <source src="Event Management.mp4" type="video/ogg">
 </video>
-<p>Many events are going online and that is why knowing how to make the best of onoinle events is critical, here is a video talking about <a href="https://www.youtube.com/watch?v=5uYR1JvipHY&t=183s">5 Keys to Awesome Virtual Events</a></p>
-<p>Also kknowing how to set these events and the tools that could be used is explained more at <a href="https://www.youtube.com/watch?v=pyiaqC-hSVA">The Complete Guide to Hosting Live Virtual Events</a></p>
 
 </body>
 </html>
