@@ -11,7 +11,7 @@
 <body>
 <h1 style="color:red;font-size:300%;">Planner Hats</h1>
 	<img src="Planner Hats.png" alt="Planner Hats Logo">
-	<P> The Planner Hats: Honeyeh Yazdizadeh, Hosna Hamdieh. Adrian Bolesnikov, Tina Yazdizadeh, Samantha Sieklicki </p>
+	<h2> The Planner Hats: Honeyeh Yazdizadeh, Hosna Hamdieh. Adrian Bolesnikov, Tina Yazdizadeh, Samantha Sieklicki </h2>
 	<p> Quick look at the problem: Event planning is a hard and time consuming process and it would be a waste if not enough people show up. To make sure you are on the right path it is vital to both know your potential competitors and the times they are holding their events. Finding the perfect time might not be possible without an overall undrestanding of the domain's active players (groups) or popular event times and days.</p>
 	<p> Our aim: Helping event planners to findout about other events, groups holding them and when they can have their own events.</p>
     
