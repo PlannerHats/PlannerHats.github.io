@@ -55,7 +55,7 @@ Your browser does not support the video tag.
   <source src="EventCalendar-PlannerHats.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
-
+<h2> More resources: </h2>
 	<p> How to Create an Event Planning Checklist </p>
 	<video width="320" height="240" controls>
   <source src="How to Create an Event Planning Checklist.mp4" type="video/mp4">
