@@ -1,0 +1,69 @@
+* {
+	font-family: Arial;
+}
+.header{
+	grid-area: header;
+	font-size: 20px;
+}
+.top {
+	grid-area: top;
+	background-color: black;
+}
+.bottom{
+	grid-area: bottom;
+	background-color: black;
+}
+.nav {
+	background-color: black;
+}
+.top a {
+	float: left;
+	display: block;
+	color: white;
+	padding: 10px;
+	text-decoration: none;
+	background-color: black;
+}
+.top a:hover {
+	background-color: red;	
+}
+.bottom a {
+	float: left;
+	display: block;
+	color: white;
+	padding: 10px;
+	text-decoration: none;
+	background-color: black;
+}
+.bottom a:hover {
+	background-color: red;
+}
+.main {
+	grid-area: main;
+}
+body {
+
+}
+h1 {
+	color: red;
+}
+p {
+
+}
+#Team {
+		font-size: 16px;
+}
+#Logo {
+	width:5;
+	height: 5;
+}
+.grid-container {
+	display:grid;
+	grid-template-areas:
+		'header'
+		'top'
+		'main'
+		'bottom';
+	grid-gap: 10px;
+	padding: 10px;
+}
