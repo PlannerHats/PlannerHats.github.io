@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 	<title>Planner Hats</title>
@@ -19,8 +18,8 @@
 		<p><a href="index.html">ABOUT</a><a href="Group.html">GROUP PLANNING<br />STEP 1</a><a href="EventTime.html">BEST TIMES<br />STEP 2</a><a href="Event.html">EVENT PLANNING<br />STEP 3</a><a href="Resources.html">ADDITIONAL RESOURCES</a></p>
 	</div>
 	<div class="main">
-		<p> <b>Quick look at the problem:</b> Event planning is a hard and time consuming process and it would be a waste if not enough people show up. To make sure you are on the right path it is vital to both know your potential competitors and the times they are holding their events. Finding the perfect time might not be possible without an overall undrestanding of the domain's active players (groups) or popular event times and days.</p>
-		<p> <b>Our aim:</b> Helping event planners to findout about other events, groups holding them and when they can have their own events.</p>
+		<p> <b>Quick look at the problem:</b> Event planning is a hard and time consuming process and it would be a waste if not enough people show up. To make sure you are on the right path it is vital to both know your potential competitors and the times they are holding their events. Finding the perfect time might not be possible without an overall understanding of the domain's active players (groups) or popular event times and days.</p>
+		<p> <b>Our aim:</b> Helping event planners to find out about other events, groups holding them, and when they can have their own events.</p>
 	</div>
 	<div class="bottom">
 		<p><a href="index.html">ABOUT</a><a href="Group.html">GROUP PLANNING<br />STEP 1</a><a href="EventTime.html">BEST TIMES<br />STEP 2</a><a href="Event.html">EVENT PLANNING<br />STEP 3</a><a href="Resources.html">ADDITIONAL RESOURCES</a></p>
