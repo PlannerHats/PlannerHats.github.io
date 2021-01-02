@@ -1,0 +1,36 @@
+import nltk
+nltk.download()
+import re
+ 
+text = "Five fantastic fish flew off to find faraway functions. Maybe find another five fantastic fish? Find my fish with a function please!"
+ 
+# remove punctuation
+result = re.sub(r'[\.\?\!\,\:\;\@\$\#\(\)\&\"]', '', text)
+ 
+print(result)
+# Five fantastic fish flew off to find faraway functions Maybe find another five fantastic fish Find my fish with a function please
+
+from nltk.tokenize import word_tokenize
+ 
+tokenized = word_tokenize(text)
+ 
+print(tokenized)
+
+
+from nltk.stem import WordNetLemmatizer
+ 
+ 
+lemmatizer = WordNetLemmatizer()
+lemmatized = [lemmatizer.lemmatize(token) for token in tokenized]
+print(lemmatized)
+ 
+
+from nltk.corpus import stopwords 
+ 
+# define set of English stopwords
+stop_words = set(stopwords.words('english')) 
+ 
+# remove stopwords from tokens in dataset
+
+statement_no_stop = [word for word in tokenized if word not in stop_words]
+print(statement_no_stop)
